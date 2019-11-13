@@ -1,6 +1,0 @@
-E:\Study\Unity\book_UNetProgramming\StudySource\03\SocketSample\SocketSample\bin\Debug\SocketSample.exe.config
-E:\Study\Unity\book_UNetProgramming\StudySource\03\SocketSample\SocketSample\bin\Debug\SocketSample.exe
-E:\Study\Unity\book_UNetProgramming\StudySource\03\SocketSample\SocketSample\bin\Debug\SocketSample.pdb
-E:\Study\Unity\book_UNetProgramming\StudySource\03\SocketSample\SocketSample\obj\Debug\SocketSample.csprojAssemblyReference.cache
-E:\Study\Unity\book_UNetProgramming\StudySource\03\SocketSample\SocketSample\obj\Debug\SocketSample.exe
-E:\Study\Unity\book_UNetProgramming\StudySource\03\SocketSample\SocketSample\obj\Debug\SocketSample.pdb
